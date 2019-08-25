@@ -1,16 +1,17 @@
-# google_stadia_app_concept
+# fitness_app
 
-Mock of a dribbble design https:&#x2F;&#x2F;dribbble.com&#x2F;shots&#x2F;6299876-Google-Stadia-App
+Google Stadia App mock from Dribbble
 
-## Getting Started
+Started this project as a design mock up for Google Stadia App
+**Design: Fitness App Mock** - https://dribbble.com/shots/6299876-Google-Stadia-App
 
-This project is a starting point for a Flutter application.
+*This project uses Dart 2.2.2*
 
-A few resources to get you started if this is your first Flutter project:
+## Video Series
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Part 1-** https://youtu.be/-rqvZfUdSPw
+In this video, you will see how I have used CustomPainter, Usable Custom Widget, Animation, designing the background for the app and easy way to create responsive and adaptive layout.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+<table style={border:"none"}><tr><td><img src="https://github.com/TechieBlossom/stadia_app_concept/blob/master/screenshots/landing_page.png" alt="Landing Page" width="400"/></td><td><img src="https://github.com/TechieBlossom/stadia_app_concept/blob/master/screenshots/secondary_home_page.png" alt="Secondary Home Page" width="400"/></td></tr></table>

@@ -9,7 +9,7 @@ Started this project as a design mock up for Google Stadia App
 
 ## Video Series
 
-**Part 1-** https://youtu.be/-rqvZfUdSPw
+**Single Video - Full Tutorial - Live Coding** https://youtu.be/-rqvZfUdSPw
 In this video, you will see how I have used CustomPainter, Usable Custom Widget, Animation, designing the background for the app and easy way to create responsive and adaptive layout.
 
 

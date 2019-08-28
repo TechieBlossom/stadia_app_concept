@@ -1,4 +1,4 @@
-# fitness_app
+# stadia-app
 
 Google Stadia App mock from Dribbble
 
